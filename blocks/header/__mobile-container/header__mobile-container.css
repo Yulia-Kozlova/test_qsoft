@@ -1,0 +1,10 @@
+.header__mobile-container {
+}
+@media screen and (max-width: 767px) {
+    .header__mobile-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin: 16px 20px;
+    }
+  }

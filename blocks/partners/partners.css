@@ -1,0 +1,19 @@
+.partners{
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 160%;
+    /* identical to box height, or 58px */
+    margin-bottom: 0;
+    margin-top: 70px;
+    text-transform: uppercase;  
+    /* Основные / Черно-синий */
+    color: #121920;
+}
+@media screen and (max-width: 1439px) {
+    .partners {
+        font-size: 28px;
+    }
+  }
+ 

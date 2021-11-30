@@ -1,0 +1,16 @@
+.partners__logos_company_nike {
+  background-image: url(../../../../../images/logo/__web/logo__web_nike.png);
+  background-repeat: no-repeat;
+  background-position: center;   
+}
+
+@media screen and (max-width: 1439px) {
+  .partners__logos_company_nike {
+    background-image: url(../../../../../images/logo/__tab/logo__tab_nike.png);
+}
+}
+@media screen and (max-width: 767px) {
+  .partners__logos_company_nike {
+      background-image: url(../../../../../images/logo/__mobile/logo__\ mobile_nike.png);
+  }
+}

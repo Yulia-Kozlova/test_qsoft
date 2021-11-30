@@ -1,0 +1,18 @@
+.partners__logos {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    list-style: none;
+    padding: 0;
+    justify-content: start;
+}
+@media screen and (max-width: 1439px) {
+    .partners__logos {
+        margin-top: 10px;
+    }
+  }
+@media screen and (max-width: 767px) {
+    .partners__logos {
+        flex-direction: column;
+    }
+  }

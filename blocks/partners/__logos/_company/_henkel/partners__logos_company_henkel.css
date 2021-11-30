@@ -1,0 +1,16 @@
+.partners__logos_company_henkel {
+  background-image: url(../../../../../images/logo/__web/logo__web_henkel.png);
+  background-repeat: no-repeat;
+  background-position: center; 
+}
+
+@media screen and (max-width: 1439px) {
+    .partners__logos_company_henkel {
+      background-image: url(../../../../../images/logo/__tab/logo__tab_henkel.png);
+  }
+}
+@media screen and (max-width: 767px) {
+  .partners__logos_company_henkel {
+      background-image: url(../../../../../images/logo/__mobile/logo__mobile_henkel.png);
+  }
+}

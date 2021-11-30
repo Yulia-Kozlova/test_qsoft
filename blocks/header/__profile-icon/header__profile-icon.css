@@ -1,0 +1,11 @@
+.header__profile-icon {
+    display: none;
+    height: 24px;
+    width: 24px;
+    align-self: flex-end;
+}
+@media screen and (max-width: 767px) {
+    .header__profile-icon{
+        display: inline;
+    }
+  }
